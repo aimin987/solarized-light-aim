@@ -1,0 +1,22 @@
+{
+    "name": "solarized-light-aim",
+    "displayName": "Solarized Light Aim",
+    "description": "测试主题",
+    "version": "0.0.2",
+    "publisher": "aimin",
+    "engines": {
+        "vscode": "^1.42.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Solarized Light Aim",
+                "uiTheme": "vs",
+                "path": "./themes/Solarized Light Aim-color-theme.json"
+            }
+        ]
+    }
+}
