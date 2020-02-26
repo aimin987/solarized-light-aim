@@ -1135,7 +1135,7 @@
 		{
 			"scope": "punctuation.definition.comment.js",
 			"settings": {
-				"foreground": "#404040"
+				"foreground": "#95a3ab"
 			}
 		},
 		{
